@@ -1,0 +1,7 @@
+/venv
+/temp
+/images
+__pycache__
+*.db
+.env
+.json
